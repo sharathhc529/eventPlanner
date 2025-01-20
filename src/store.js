@@ -8,6 +8,5 @@ export default configureStore({
     venue: venueReducer,
     av: avReducer,
     meals: mealsReducer,
-    totalCosts: totalCostsReducer,
   },
 });
